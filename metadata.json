@@ -1,0 +1,6 @@
+{
+  "name": "Nikku Fashion Nawalgarh",
+  "description": "Premium cinematic high-end fashion e-commerce destination for modern men and women clothing, denim, streetwear, and contemporary essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
